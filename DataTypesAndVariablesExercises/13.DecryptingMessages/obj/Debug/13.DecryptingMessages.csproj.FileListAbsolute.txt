@@ -1,0 +1,5 @@
+c:\users\rozi\documents\visual studio 2015\Projects\01.TypeBoundaries\13.DecryptingMessages\bin\Debug\13.DecryptingMessages.exe.config
+c:\users\rozi\documents\visual studio 2015\Projects\01.TypeBoundaries\13.DecryptingMessages\bin\Debug\13.DecryptingMessages.exe
+c:\users\rozi\documents\visual studio 2015\Projects\01.TypeBoundaries\13.DecryptingMessages\bin\Debug\13.DecryptingMessages.pdb
+c:\users\rozi\documents\visual studio 2015\Projects\01.TypeBoundaries\13.DecryptingMessages\obj\Debug\13.DecryptingMessages.exe
+c:\users\rozi\documents\visual studio 2015\Projects\01.TypeBoundaries\13.DecryptingMessages\obj\Debug\13.DecryptingMessages.pdb

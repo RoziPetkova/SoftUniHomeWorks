@@ -1,0 +1,6 @@
+c:\users\rozi\documents\visual studio 2015\Projects\01.TypeBoundaries\08.HouseBuilder\bin\Debug\08.HouseBuilder.exe.config
+c:\users\rozi\documents\visual studio 2015\Projects\01.TypeBoundaries\08.HouseBuilder\bin\Debug\08.HouseBuilder.exe
+c:\users\rozi\documents\visual studio 2015\Projects\01.TypeBoundaries\08.HouseBuilder\bin\Debug\08.HouseBuilder.pdb
+c:\users\rozi\documents\visual studio 2015\Projects\01.TypeBoundaries\08.HouseBuilder\obj\Debug\08.HouseBuilder.csprojResolveAssemblyReference.cache
+c:\users\rozi\documents\visual studio 2015\Projects\01.TypeBoundaries\08.HouseBuilder\obj\Debug\08.HouseBuilder.exe
+c:\users\rozi\documents\visual studio 2015\Projects\01.TypeBoundaries\08.HouseBuilder\obj\Debug\08.HouseBuilder.pdb

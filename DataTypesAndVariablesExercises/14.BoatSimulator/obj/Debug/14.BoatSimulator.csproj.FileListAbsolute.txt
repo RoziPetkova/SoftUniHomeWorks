@@ -1,0 +1,6 @@
+c:\users\rozi\documents\visual studio 2015\Projects\01.TypeBoundaries\14.BoatSimulator\bin\Debug\14.BoatSimulator.exe.config
+c:\users\rozi\documents\visual studio 2015\Projects\01.TypeBoundaries\14.BoatSimulator\bin\Debug\14.BoatSimulator.exe
+c:\users\rozi\documents\visual studio 2015\Projects\01.TypeBoundaries\14.BoatSimulator\bin\Debug\14.BoatSimulator.pdb
+c:\users\rozi\documents\visual studio 2015\Projects\01.TypeBoundaries\14.BoatSimulator\obj\Debug\14.BoatSimulator.csprojResolveAssemblyReference.cache
+c:\users\rozi\documents\visual studio 2015\Projects\01.TypeBoundaries\14.BoatSimulator\obj\Debug\14.BoatSimulator.exe
+c:\users\rozi\documents\visual studio 2015\Projects\01.TypeBoundaries\14.BoatSimulator\obj\Debug\14.BoatSimulator.pdb

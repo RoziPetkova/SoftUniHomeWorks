@@ -1,0 +1,6 @@
+c:\users\rozi\documents\visual studio 2015\Projects\01.TypeBoundaries\07.SentenceOfThief\bin\Debug\07.SentenceOfThief.exe.config
+c:\users\rozi\documents\visual studio 2015\Projects\01.TypeBoundaries\07.SentenceOfThief\bin\Debug\07.SentenceOfThief.exe
+c:\users\rozi\documents\visual studio 2015\Projects\01.TypeBoundaries\07.SentenceOfThief\bin\Debug\07.SentenceOfThief.pdb
+c:\users\rozi\documents\visual studio 2015\Projects\01.TypeBoundaries\07.SentenceOfThief\obj\Debug\07.SentenceOfThief.exe
+c:\users\rozi\documents\visual studio 2015\Projects\01.TypeBoundaries\07.SentenceOfThief\obj\Debug\07.SentenceOfThief.pdb
+c:\users\rozi\documents\visual studio 2015\Projects\01.TypeBoundaries\07.SentenceOfThief\obj\Debug\07.SentenceOfThief.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+c:\users\rozi\documents\visual studio 2015\Projects\01.TypeBoundaries\11.StringConcatenation\bin\Debug\11.StringConcatenation.exe.config
+c:\users\rozi\documents\visual studio 2015\Projects\01.TypeBoundaries\11.StringConcatenation\bin\Debug\11.StringConcatenation.exe
+c:\users\rozi\documents\visual studio 2015\Projects\01.TypeBoundaries\11.StringConcatenation\bin\Debug\11.StringConcatenation.pdb
+c:\users\rozi\documents\visual studio 2015\Projects\01.TypeBoundaries\11.StringConcatenation\obj\Debug\11.StringConcatenation.csprojResolveAssemblyReference.cache
+c:\users\rozi\documents\visual studio 2015\Projects\01.TypeBoundaries\11.StringConcatenation\obj\Debug\11.StringConcatenation.exe
+c:\users\rozi\documents\visual studio 2015\Projects\01.TypeBoundaries\11.StringConcatenation\obj\Debug\11.StringConcatenation.pdb

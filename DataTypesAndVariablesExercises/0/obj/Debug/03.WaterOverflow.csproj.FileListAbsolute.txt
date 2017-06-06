@@ -1,0 +1,6 @@
+c:\users\rozi\documents\visual studio 2015\Projects\01.TypeBoundaries\0\bin\Debug\0.exe.config
+c:\users\rozi\documents\visual studio 2015\Projects\01.TypeBoundaries\0\obj\Debug\03.WaterOverflow.csprojResolveAssemblyReference.cache
+c:\users\rozi\documents\visual studio 2015\Projects\01.TypeBoundaries\0\bin\Debug\0.exe
+c:\users\rozi\documents\visual studio 2015\Projects\01.TypeBoundaries\0\bin\Debug\0.pdb
+c:\users\rozi\documents\visual studio 2015\Projects\01.TypeBoundaries\0\obj\Debug\0.exe
+c:\users\rozi\documents\visual studio 2015\Projects\01.TypeBoundaries\0\obj\Debug\0.pdb

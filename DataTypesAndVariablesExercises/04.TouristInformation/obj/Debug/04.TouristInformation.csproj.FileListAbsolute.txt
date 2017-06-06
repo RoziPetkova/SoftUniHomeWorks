@@ -1,0 +1,6 @@
+c:\users\rozi\documents\visual studio 2015\Projects\01.TypeBoundaries\04.TouristInformation\bin\Debug\04.TouristInformation.exe.config
+c:\users\rozi\documents\visual studio 2015\Projects\01.TypeBoundaries\04.TouristInformation\bin\Debug\04.TouristInformation.exe
+c:\users\rozi\documents\visual studio 2015\Projects\01.TypeBoundaries\04.TouristInformation\bin\Debug\04.TouristInformation.pdb
+c:\users\rozi\documents\visual studio 2015\Projects\01.TypeBoundaries\04.TouristInformation\obj\Debug\04.TouristInformation.csprojResolveAssemblyReference.cache
+c:\users\rozi\documents\visual studio 2015\Projects\01.TypeBoundaries\04.TouristInformation\obj\Debug\04.TouristInformation.exe
+c:\users\rozi\documents\visual studio 2015\Projects\01.TypeBoundaries\04.TouristInformation\obj\Debug\04.TouristInformation.pdb

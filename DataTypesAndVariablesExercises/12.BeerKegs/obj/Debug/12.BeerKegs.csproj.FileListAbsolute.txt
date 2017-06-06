@@ -1,0 +1,5 @@
+c:\users\rozi\documents\visual studio 2015\Projects\01.TypeBoundaries\12.BeerKegs\bin\Debug\12.BeerKegs.exe.config
+c:\users\rozi\documents\visual studio 2015\Projects\01.TypeBoundaries\12.BeerKegs\bin\Debug\12.BeerKegs.exe
+c:\users\rozi\documents\visual studio 2015\Projects\01.TypeBoundaries\12.BeerKegs\bin\Debug\12.BeerKegs.pdb
+c:\users\rozi\documents\visual studio 2015\Projects\01.TypeBoundaries\12.BeerKegs\obj\Debug\12.BeerKegs.exe
+c:\users\rozi\documents\visual studio 2015\Projects\01.TypeBoundaries\12.BeerKegs\obj\Debug\12.BeerKegs.pdb

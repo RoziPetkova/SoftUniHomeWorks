@@ -1,0 +1,6 @@
+c:\users\rozi\documents\visual studio 2015\Projects\01.TypeBoundaries\04.DataTypesAndVariables_MoreExercises\bin\Debug\04.DataTypesAndVariables_MoreExercises.exe.config
+c:\users\rozi\documents\visual studio 2015\Projects\01.TypeBoundaries\04.DataTypesAndVariables_MoreExercises\bin\Debug\04.DataTypesAndVariables_MoreExercises.exe
+c:\users\rozi\documents\visual studio 2015\Projects\01.TypeBoundaries\04.DataTypesAndVariables_MoreExercises\bin\Debug\04.DataTypesAndVariables_MoreExercises.pdb
+c:\users\rozi\documents\visual studio 2015\Projects\01.TypeBoundaries\04.DataTypesAndVariables_MoreExercises\obj\Debug\04.DataTypesAndVariables_MoreExercises.csprojResolveAssemblyReference.cache
+c:\users\rozi\documents\visual studio 2015\Projects\01.TypeBoundaries\04.DataTypesAndVariables_MoreExercises\obj\Debug\04.DataTypesAndVariables_MoreExercises.exe
+c:\users\rozi\documents\visual studio 2015\Projects\01.TypeBoundaries\04.DataTypesAndVariables_MoreExercises\obj\Debug\04.DataTypesAndVariables_MoreExercises.pdb
