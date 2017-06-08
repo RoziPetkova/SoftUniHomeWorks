@@ -1,0 +1,5 @@
+c:\users\rozi\documents\visual studio 2015\Projects\01.HelloName\03.EnglishNameOfTheLastDigit\bin\Debug\03.EnglishNameOfTheLastDigit.exe.config
+c:\users\rozi\documents\visual studio 2015\Projects\01.HelloName\03.EnglishNameOfTheLastDigit\bin\Debug\03.EnglishNameOfTheLastDigit.exe
+c:\users\rozi\documents\visual studio 2015\Projects\01.HelloName\03.EnglishNameOfTheLastDigit\bin\Debug\03.EnglishNameOfTheLastDigit.pdb
+c:\users\rozi\documents\visual studio 2015\Projects\01.HelloName\03.EnglishNameOfTheLastDigit\obj\Debug\03.EnglishNameOfTheLastDigit.exe
+c:\users\rozi\documents\visual studio 2015\Projects\01.HelloName\03.EnglishNameOfTheLastDigit\obj\Debug\03.EnglishNameOfTheLastDigit.pdb

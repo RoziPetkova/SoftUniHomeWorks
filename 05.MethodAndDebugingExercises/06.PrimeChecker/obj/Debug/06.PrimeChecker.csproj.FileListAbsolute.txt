@@ -1,0 +1,12 @@
+c:\users\rozi\documents\visual studio 2015\Projects\01.HelloName\06.PrimeChecker\bin\Debug\06.PrimeChecker.exe.config
+c:\users\rozi\documents\visual studio 2015\Projects\01.HelloName\06.PrimeChecker\bin\Debug\06.PrimeChecker.exe
+c:\users\rozi\documents\visual studio 2015\Projects\01.HelloName\06.PrimeChecker\bin\Debug\06.PrimeChecker.pdb
+c:\users\rozi\documents\visual studio 2015\Projects\01.HelloName\06.PrimeChecker\obj\Debug\06.PrimeChecker.csprojResolveAssemblyReference.cache
+c:\users\rozi\documents\visual studio 2015\Projects\01.HelloName\06.PrimeChecker\obj\Debug\06.PrimeChecker.exe
+c:\users\rozi\documents\visual studio 2015\Projects\01.HelloName\06.PrimeChecker\obj\Debug\06.PrimeChecker.pdb
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\05.MethodAndDebugingExercises\06.PrimeChecker\bin\Debug\06.PrimeChecker.exe.config
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\05.MethodAndDebugingExercises\06.PrimeChecker\obj\Debug\06.PrimeChecker.exe
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\05.MethodAndDebugingExercises\06.PrimeChecker\obj\Debug\06.PrimeChecker.pdb
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\05.MethodAndDebugingExercises\06.PrimeChecker\bin\Debug\06.PrimeChecker.exe
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\05.MethodAndDebugingExercises\06.PrimeChecker\bin\Debug\06.PrimeChecker.pdb
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\05.MethodAndDebugingExercises\06.PrimeChecker\obj\Debug\06.PrimeChecker.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\05.MethodAndDebugingExercises\07.PrimeNumbersList\bin\Debug\07.PrimeNumbersList.exe.config
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\05.MethodAndDebugingExercises\07.PrimeNumbersList\bin\Debug\07.PrimeNumbersList.exe
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\05.MethodAndDebugingExercises\07.PrimeNumbersList\bin\Debug\07.PrimeNumbersList.pdb
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\05.MethodAndDebugingExercises\07.PrimeNumbersList\bin\Debug\06.PrimeChecker.exe
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\05.MethodAndDebugingExercises\07.PrimeNumbersList\bin\Debug\06.PrimeChecker.pdb
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\05.MethodAndDebugingExercises\07.PrimeNumbersList\obj\Debug\07.PrimeNumbersList.csprojResolveAssemblyReference.cache
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\05.MethodAndDebugingExercises\07.PrimeNumbersList\obj\Debug\07.PrimeNumbersList.exe
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\05.MethodAndDebugingExercises\07.PrimeNumbersList\obj\Debug\07.PrimeNumbersList.pdb

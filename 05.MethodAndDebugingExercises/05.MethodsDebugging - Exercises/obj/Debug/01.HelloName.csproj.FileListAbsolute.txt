@@ -1,0 +1,9 @@
+c:\users\rozi\documents\visual studio 2015\Projects\01.HelloName\05.MethodsDebugging - Exercises\bin\Debug\05.MethodsDebugging - Exercises.exe.config
+c:\users\rozi\documents\visual studio 2015\Projects\01.HelloName\05.MethodsDebugging - Exercises\bin\Debug\05.MethodsDebugging - Exercises.exe
+c:\users\rozi\documents\visual studio 2015\Projects\01.HelloName\05.MethodsDebugging - Exercises\bin\Debug\05.MethodsDebugging - Exercises.pdb
+c:\users\rozi\documents\visual studio 2015\Projects\01.HelloName\05.MethodsDebugging - Exercises\obj\Debug\01.HelloName.csprojResolveAssemblyReference.cache
+c:\users\rozi\documents\visual studio 2015\Projects\01.HelloName\05.MethodsDebugging - Exercises\obj\Debug\05.MethodsDebugging - Exercises.exe
+c:\users\rozi\documents\visual studio 2015\Projects\01.HelloName\05.MethodsDebugging - Exercises\obj\Debug\05.MethodsDebugging - Exercises.pdb
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\05.MethodAndDebugingExercises\05.MethodsDebugging - Exercises\bin\Debug\05.MethodsDebugging - Exercises.exe.config
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\05.MethodAndDebugingExercises\05.MethodsDebugging - Exercises\obj\Debug\05.MethodsDebugging - Exercises.exe
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\05.MethodAndDebugingExercises\05.MethodsDebugging - Exercises\obj\Debug\05.MethodsDebugging - Exercises.pdb

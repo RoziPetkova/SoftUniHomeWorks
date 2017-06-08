@@ -1,0 +1,5 @@
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\05.MethodAndDebugingExercises\13.Factorial\bin\Debug\13.Factorial.exe.config
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\05.MethodAndDebugingExercises\13.Factorial\bin\Debug\13.Factorial.exe
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\05.MethodAndDebugingExercises\13.Factorial\bin\Debug\13.Factorial.pdb
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\05.MethodAndDebugingExercises\13.Factorial\obj\Debug\13.Factorial.exe
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\05.MethodAndDebugingExercises\13.Factorial\obj\Debug\13.Factorial.pdb

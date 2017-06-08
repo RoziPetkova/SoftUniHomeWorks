@@ -1,0 +1,6 @@
+c:\users\rozi\documents\visual studio 2015\Projects\01.HelloName\04.NumberInReversedOrder\bin\Debug\04.NumberInReversedOrder.exe.config
+c:\users\rozi\documents\visual studio 2015\Projects\01.HelloName\04.NumberInReversedOrder\bin\Debug\04.NumberInReversedOrder.exe
+c:\users\rozi\documents\visual studio 2015\Projects\01.HelloName\04.NumberInReversedOrder\bin\Debug\04.NumberInReversedOrder.pdb
+c:\users\rozi\documents\visual studio 2015\Projects\01.HelloName\04.NumberInReversedOrder\obj\Debug\04.NumberInReversedOrder.csprojResolveAssemblyReference.cache
+c:\users\rozi\documents\visual studio 2015\Projects\01.HelloName\04.NumberInReversedOrder\obj\Debug\04.NumberInReversedOrder.exe
+c:\users\rozi\documents\visual studio 2015\Projects\01.HelloName\04.NumberInReversedOrder\obj\Debug\04.NumberInReversedOrder.pdb
