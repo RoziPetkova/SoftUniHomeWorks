@@ -1,0 +1,6 @@
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\05.MethodAndDebugingExercises\08.CenterPoint\bin\Debug\08.CenterPoint.exe.config
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\05.MethodAndDebugingExercises\08.CenterPoint\bin\Debug\08.CenterPoint.exe
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\05.MethodAndDebugingExercises\08.CenterPoint\bin\Debug\08.CenterPoint.pdb
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\05.MethodAndDebugingExercises\08.CenterPoint\obj\Debug\08.CenterPoint.csprojResolveAssemblyReference.cache
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\05.MethodAndDebugingExercises\08.CenterPoint\obj\Debug\08.CenterPoint.exe
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\05.MethodAndDebugingExercises\08.CenterPoint\obj\Debug\08.CenterPoint.pdb

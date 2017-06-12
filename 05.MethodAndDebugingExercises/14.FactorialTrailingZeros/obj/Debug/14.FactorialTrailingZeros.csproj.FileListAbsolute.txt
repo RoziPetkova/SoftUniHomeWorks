@@ -1,0 +1,6 @@
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\05.MethodAndDebugingExercises\14.FactorialTrailingZeros\bin\Debug\14.FactorialTrailingZeros.exe.config
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\05.MethodAndDebugingExercises\14.FactorialTrailingZeros\bin\Debug\14.FactorialTrailingZeros.exe
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\05.MethodAndDebugingExercises\14.FactorialTrailingZeros\bin\Debug\14.FactorialTrailingZeros.pdb
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\05.MethodAndDebugingExercises\14.FactorialTrailingZeros\obj\Debug\14.FactorialTrailingZeros.csprojResolveAssemblyReference.cache
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\05.MethodAndDebugingExercises\14.FactorialTrailingZeros\obj\Debug\14.FactorialTrailingZeros.exe
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\05.MethodAndDebugingExercises\14.FactorialTrailingZeros\obj\Debug\14.FactorialTrailingZeros.pdb

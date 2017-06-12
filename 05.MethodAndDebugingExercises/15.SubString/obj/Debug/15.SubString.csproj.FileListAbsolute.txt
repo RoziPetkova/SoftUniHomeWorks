@@ -1,0 +1,6 @@
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\05.MethodAndDebugingExercises\15.SubString\bin\Debug\15.SubString.exe.config
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\05.MethodAndDebugingExercises\15.SubString\bin\Debug\15.SubString.exe
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\05.MethodAndDebugingExercises\15.SubString\bin\Debug\15.SubString.pdb
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\05.MethodAndDebugingExercises\15.SubString\obj\Debug\15.SubString.exe
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\05.MethodAndDebugingExercises\15.SubString\obj\Debug\15.SubString.pdb
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\05.MethodAndDebugingExercises\15.SubString\obj\Debug\15.SubString.csprojResolveAssemblyReference.cache
