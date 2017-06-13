@@ -1,0 +1,6 @@
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\06.ArrayExercises\10.PairByDifference\bin\Debug\10.PairByDifference.exe.config
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\06.ArrayExercises\10.PairByDifference\bin\Debug\10.PairByDifference.exe
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\06.ArrayExercises\10.PairByDifference\bin\Debug\10.PairByDifference.pdb
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\06.ArrayExercises\10.PairByDifference\obj\Debug\10.PairByDifference.csprojResolveAssemblyReference.cache
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\06.ArrayExercises\10.PairByDifference\obj\Debug\10.PairByDifference.exe
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\06.ArrayExercises\10.PairByDifference\obj\Debug\10.PairByDifference.pdb

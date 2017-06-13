@@ -1,0 +1,6 @@
+c:\users\rozi\documents\visual studio 2015\Projects\06.ArrayExercises\06.ArrayExercises\bin\Debug\06.ArrayExercises.exe.config
+c:\users\rozi\documents\visual studio 2015\Projects\06.ArrayExercises\06.ArrayExercises\bin\Debug\06.ArrayExercises.exe
+c:\users\rozi\documents\visual studio 2015\Projects\06.ArrayExercises\06.ArrayExercises\bin\Debug\06.ArrayExercises.pdb
+c:\users\rozi\documents\visual studio 2015\Projects\06.ArrayExercises\06.ArrayExercises\obj\Debug\01.LargestCommonEnd.csprojResolveAssemblyReference.cache
+c:\users\rozi\documents\visual studio 2015\Projects\06.ArrayExercises\06.ArrayExercises\obj\Debug\06.ArrayExercises.exe
+c:\users\rozi\documents\visual studio 2015\Projects\06.ArrayExercises\06.ArrayExercises\obj\Debug\06.ArrayExercises.pdb

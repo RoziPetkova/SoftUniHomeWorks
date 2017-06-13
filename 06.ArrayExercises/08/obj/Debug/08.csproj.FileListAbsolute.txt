@@ -1,0 +1,3 @@
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\06.ArrayExercises\08\bin\Debug\08.exe.config
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\06.ArrayExercises\08\obj\Debug\08.exe
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\06.ArrayExercises\08\obj\Debug\08.pdb
