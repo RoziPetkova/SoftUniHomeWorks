@@ -1,0 +1,6 @@
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\ArraysAndMethodsMoreExercises\purvata\bin\Debug\purvata.exe.config
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\ArraysAndMethodsMoreExercises\purvata\bin\Debug\purvata.exe
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\ArraysAndMethodsMoreExercises\purvata\bin\Debug\purvata.pdb
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\ArraysAndMethodsMoreExercises\purvata\obj\Debug\purvata.csprojResolveAssemblyReference.cache
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\ArraysAndMethodsMoreExercises\purvata\obj\Debug\purvata.exe
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\ArraysAndMethodsMoreExercises\purvata\obj\Debug\purvata.pdb

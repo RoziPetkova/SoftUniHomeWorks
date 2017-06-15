@@ -1,0 +1,6 @@
+c:\users\rozi\documents\visual studio 2015\Projects\ArraysAndMethodsMoreExercises\ArraysAndMethodsMoreExercises\bin\Debug\ArraysAndMethodsMoreExercises.exe.config
+c:\users\rozi\documents\visual studio 2015\Projects\ArraysAndMethodsMoreExercises\ArraysAndMethodsMoreExercises\bin\Debug\ArraysAndMethodsMoreExercises.exe
+c:\users\rozi\documents\visual studio 2015\Projects\ArraysAndMethodsMoreExercises\ArraysAndMethodsMoreExercises\bin\Debug\ArraysAndMethodsMoreExercises.pdb
+c:\users\rozi\documents\visual studio 2015\Projects\ArraysAndMethodsMoreExercises\ArraysAndMethodsMoreExercises\obj\Debug\01.ArrayStatics.csprojResolveAssemblyReference.cache
+c:\users\rozi\documents\visual studio 2015\Projects\ArraysAndMethodsMoreExercises\ArraysAndMethodsMoreExercises\obj\Debug\ArraysAndMethodsMoreExercises.exe
+c:\users\rozi\documents\visual studio 2015\Projects\ArraysAndMethodsMoreExercises\ArraysAndMethodsMoreExercises\obj\Debug\ArraysAndMethodsMoreExercises.pdb

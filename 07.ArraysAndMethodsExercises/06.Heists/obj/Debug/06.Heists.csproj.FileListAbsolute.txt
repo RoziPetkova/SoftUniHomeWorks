@@ -1,0 +1,6 @@
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\ArraysAndMethodsMoreExercises\06.Heists\bin\Debug\06.Heists.exe.config
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\ArraysAndMethodsMoreExercises\06.Heists\bin\Debug\06.Heists.exe
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\ArraysAndMethodsMoreExercises\06.Heists\bin\Debug\06.Heists.pdb
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\ArraysAndMethodsMoreExercises\06.Heists\obj\Debug\06.Heists.csprojResolveAssemblyReference.cache
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\ArraysAndMethodsMoreExercises\06.Heists\obj\Debug\06.Heists.exe
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\ArraysAndMethodsMoreExercises\06.Heists\obj\Debug\06.Heists.pdb

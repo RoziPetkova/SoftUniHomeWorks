@@ -1,0 +1,5 @@
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\ArraysAndMethodsMoreExercises\05. PizzaIngredients\bin\Debug\_05.PizzaIngredients.exe.config
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\ArraysAndMethodsMoreExercises\05. PizzaIngredients\bin\Debug\_05.PizzaIngredients.exe
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\ArraysAndMethodsMoreExercises\05. PizzaIngredients\bin\Debug\_05.PizzaIngredients.pdb
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\ArraysAndMethodsMoreExercises\05. PizzaIngredients\obj\Debug\_05.PizzaIngredients.exe
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\ArraysAndMethodsMoreExercises\05. PizzaIngredients\obj\Debug\_05.PizzaIngredients.pdb
