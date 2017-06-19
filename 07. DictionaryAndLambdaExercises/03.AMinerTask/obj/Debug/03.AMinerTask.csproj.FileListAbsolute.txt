@@ -1,0 +1,6 @@
+c:\users\rozi\documents\visual studio 2015\Projects\07. DictionaryAndLambdaExercises\03.AMinerTask\bin\Debug\03.AMinerTask.exe.config
+c:\users\rozi\documents\visual studio 2015\Projects\07. DictionaryAndLambdaExercises\03.AMinerTask\bin\Debug\03.AMinerTask.exe
+c:\users\rozi\documents\visual studio 2015\Projects\07. DictionaryAndLambdaExercises\03.AMinerTask\bin\Debug\03.AMinerTask.pdb
+c:\users\rozi\documents\visual studio 2015\Projects\07. DictionaryAndLambdaExercises\03.AMinerTask\obj\Debug\03.AMinerTask.csprojResolveAssemblyReference.cache
+c:\users\rozi\documents\visual studio 2015\Projects\07. DictionaryAndLambdaExercises\03.AMinerTask\obj\Debug\03.AMinerTask.exe
+c:\users\rozi\documents\visual studio 2015\Projects\07. DictionaryAndLambdaExercises\03.AMinerTask\obj\Debug\03.AMinerTask.pdb

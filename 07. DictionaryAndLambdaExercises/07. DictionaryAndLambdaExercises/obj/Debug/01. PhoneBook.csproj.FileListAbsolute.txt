@@ -1,0 +1,6 @@
+c:\users\rozi\documents\visual studio 2015\Projects\07. DictionaryAndLambdaExercises\07. DictionaryAndLambdaExercises\bin\Debug\_07.DictionaryAndLambdaExercises.exe.config
+c:\users\rozi\documents\visual studio 2015\Projects\07. DictionaryAndLambdaExercises\07. DictionaryAndLambdaExercises\bin\Debug\_07.DictionaryAndLambdaExercises.exe
+c:\users\rozi\documents\visual studio 2015\Projects\07. DictionaryAndLambdaExercises\07. DictionaryAndLambdaExercises\bin\Debug\_07.DictionaryAndLambdaExercises.pdb
+c:\users\rozi\documents\visual studio 2015\Projects\07. DictionaryAndLambdaExercises\07. DictionaryAndLambdaExercises\obj\Debug\01. PhoneBook.csprojResolveAssemblyReference.cache
+c:\users\rozi\documents\visual studio 2015\Projects\07. DictionaryAndLambdaExercises\07. DictionaryAndLambdaExercises\obj\Debug\_07.DictionaryAndLambdaExercises.exe
+c:\users\rozi\documents\visual studio 2015\Projects\07. DictionaryAndLambdaExercises\07. DictionaryAndLambdaExercises\obj\Debug\_07.DictionaryAndLambdaExercises.pdb

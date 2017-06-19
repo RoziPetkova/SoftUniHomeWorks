@@ -1,0 +1,6 @@
+c:\users\rozi\documents\visual studio 2015\Projects\07. DictionaryAndLambdaExercises\02.PhoneBookUpdate\bin\Debug\02.PhoneBookUpdate.exe.config
+c:\users\rozi\documents\visual studio 2015\Projects\07. DictionaryAndLambdaExercises\02.PhoneBookUpdate\bin\Debug\02.PhoneBookUpdate.exe
+c:\users\rozi\documents\visual studio 2015\Projects\07. DictionaryAndLambdaExercises\02.PhoneBookUpdate\bin\Debug\02.PhoneBookUpdate.pdb
+c:\users\rozi\documents\visual studio 2015\Projects\07. DictionaryAndLambdaExercises\02.PhoneBookUpdate\obj\Debug\02.PhoneBookUpdate.csprojResolveAssemblyReference.cache
+c:\users\rozi\documents\visual studio 2015\Projects\07. DictionaryAndLambdaExercises\02.PhoneBookUpdate\obj\Debug\02.PhoneBookUpdate.exe
+c:\users\rozi\documents\visual studio 2015\Projects\07. DictionaryAndLambdaExercises\02.PhoneBookUpdate\obj\Debug\02.PhoneBookUpdate.pdb

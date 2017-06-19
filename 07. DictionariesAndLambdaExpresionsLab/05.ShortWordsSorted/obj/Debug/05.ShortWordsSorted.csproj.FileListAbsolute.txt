@@ -1,0 +1,6 @@
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\07. DictionariesAndLambdaExpresionsLab\05.ShortWordsSorted\bin\Debug\05.ShortWordsSorted.exe.config
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\07. DictionariesAndLambdaExpresionsLab\05.ShortWordsSorted\bin\Debug\05.ShortWordsSorted.exe
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\07. DictionariesAndLambdaExpresionsLab\05.ShortWordsSorted\bin\Debug\05.ShortWordsSorted.pdb
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\07. DictionariesAndLambdaExpresionsLab\05.ShortWordsSorted\obj\Debug\05.ShortWordsSorted.exe
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\07. DictionariesAndLambdaExpresionsLab\05.ShortWordsSorted\obj\Debug\05.ShortWordsSorted.pdb
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\07. DictionariesAndLambdaExpresionsLab\05.ShortWordsSorted\obj\Debug\05.ShortWordsSorted.csprojResolveAssemblyReference.cache

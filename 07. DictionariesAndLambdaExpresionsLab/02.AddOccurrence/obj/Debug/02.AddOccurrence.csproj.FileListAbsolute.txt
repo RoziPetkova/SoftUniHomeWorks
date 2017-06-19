@@ -1,0 +1,5 @@
+c:\users\rozi\documents\visual studio 2015\Projects\07. DictionariesAndLambdaExpresionsLab\02.AddOccurrence\bin\Debug\02.AddOccurrence.exe.config
+c:\users\rozi\documents\visual studio 2015\Projects\07. DictionariesAndLambdaExpresionsLab\02.AddOccurrence\bin\Debug\02.AddOccurrence.exe
+c:\users\rozi\documents\visual studio 2015\Projects\07. DictionariesAndLambdaExpresionsLab\02.AddOccurrence\bin\Debug\02.AddOccurrence.pdb
+c:\users\rozi\documents\visual studio 2015\Projects\07. DictionariesAndLambdaExpresionsLab\02.AddOccurrence\obj\Debug\02.AddOccurrence.exe
+c:\users\rozi\documents\visual studio 2015\Projects\07. DictionariesAndLambdaExpresionsLab\02.AddOccurrence\obj\Debug\02.AddOccurrence.pdb

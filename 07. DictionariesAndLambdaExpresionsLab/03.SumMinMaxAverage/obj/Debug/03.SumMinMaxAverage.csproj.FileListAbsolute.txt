@@ -1,0 +1,6 @@
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\07. DictionariesAndLambdaExpresionsLab\03.SumMinMaxAverage\bin\Debug\03.SumMinMaxAverage.exe.config
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\07. DictionariesAndLambdaExpresionsLab\03.SumMinMaxAverage\bin\Debug\03.SumMinMaxAverage.exe
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\07. DictionariesAndLambdaExpresionsLab\03.SumMinMaxAverage\bin\Debug\03.SumMinMaxAverage.pdb
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\07. DictionariesAndLambdaExpresionsLab\03.SumMinMaxAverage\obj\Debug\03.SumMinMaxAverage.csprojResolveAssemblyReference.cache
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\07. DictionariesAndLambdaExpresionsLab\03.SumMinMaxAverage\obj\Debug\03.SumMinMaxAverage.exe
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\07. DictionariesAndLambdaExpresionsLab\03.SumMinMaxAverage\obj\Debug\03.SumMinMaxAverage.pdb

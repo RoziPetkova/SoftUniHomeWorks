@@ -1,0 +1,1 @@
+c:\users\rozi\documents\visual studio 2015\Projects\07. DictionaryAndLambdaExercises\07. DictionaryAndLambdaExercises\bin\Debug\_07.DictionaryAndLambdaExercises.exe.config

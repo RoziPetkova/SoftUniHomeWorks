@@ -1,0 +1,6 @@
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\07. DictionariesAndLambdaExpresionsLab\04.LargestThreeNums\bin\Debug\04.LargestThreeNums.exe.config
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\07. DictionariesAndLambdaExpresionsLab\04.LargestThreeNums\bin\Debug\04.LargestThreeNums.exe
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\07. DictionariesAndLambdaExpresionsLab\04.LargestThreeNums\bin\Debug\04.LargestThreeNums.pdb
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\07. DictionariesAndLambdaExpresionsLab\04.LargestThreeNums\obj\Debug\04.LargestThreeNums.exe
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\07. DictionariesAndLambdaExpresionsLab\04.LargestThreeNums\obj\Debug\04.LargestThreeNums.pdb
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\07. DictionariesAndLambdaExpresionsLab\04.LargestThreeNums\obj\Debug\04.LargestThreeNums.csprojResolveAssemblyReference.cache

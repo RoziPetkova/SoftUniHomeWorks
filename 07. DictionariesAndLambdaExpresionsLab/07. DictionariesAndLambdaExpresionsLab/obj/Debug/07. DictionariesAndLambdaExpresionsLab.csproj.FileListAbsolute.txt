@@ -1,0 +1,6 @@
+c:\users\rozi\documents\visual studio 2015\Projects\07. DictionariesAndLambdaExpresionsLab\07. DictionariesAndLambdaExpresionsLab\bin\Debug\_07.DictionariesAndLambdaExpresionsLab.exe.config
+c:\users\rozi\documents\visual studio 2015\Projects\07. DictionariesAndLambdaExpresionsLab\07. DictionariesAndLambdaExpresionsLab\bin\Debug\_07.DictionariesAndLambdaExpresionsLab.exe
+c:\users\rozi\documents\visual studio 2015\Projects\07. DictionariesAndLambdaExpresionsLab\07. DictionariesAndLambdaExpresionsLab\bin\Debug\_07.DictionariesAndLambdaExpresionsLab.pdb
+c:\users\rozi\documents\visual studio 2015\Projects\07. DictionariesAndLambdaExpresionsLab\07. DictionariesAndLambdaExpresionsLab\obj\Debug\07. DictionariesAndLambdaExpresionsLab.csprojResolveAssemblyReference.cache
+c:\users\rozi\documents\visual studio 2015\Projects\07. DictionariesAndLambdaExpresionsLab\07. DictionariesAndLambdaExpresionsLab\obj\Debug\_07.DictionariesAndLambdaExpresionsLab.exe
+c:\users\rozi\documents\visual studio 2015\Projects\07. DictionariesAndLambdaExpresionsLab\07. DictionariesAndLambdaExpresionsLab\obj\Debug\_07.DictionariesAndLambdaExpresionsLab.pdb

@@ -1,0 +1,6 @@
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\07. DictionaryAndLambdaExercises\06.UserLogs\bin\Debug\06.UserLogs.exe.config
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\07. DictionaryAndLambdaExercises\06.UserLogs\bin\Debug\06.UserLogs.exe
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\07. DictionaryAndLambdaExercises\06.UserLogs\bin\Debug\06.UserLogs.pdb
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\07. DictionaryAndLambdaExercises\06.UserLogs\obj\Debug\06.UserLogs.csprojResolveAssemblyReference.cache
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\07. DictionaryAndLambdaExercises\06.UserLogs\obj\Debug\06.UserLogs.exe
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\07. DictionaryAndLambdaExercises\06.UserLogs\obj\Debug\06.UserLogs.pdb
