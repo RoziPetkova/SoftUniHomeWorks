@@ -1,0 +1,6 @@
+c:\users\rozi\documents\visual studio 2015\Projects\09.ObjectAndClassesExercises\02.Advertisement Message\bin\Debug\02.Advertisement Message.exe.config
+c:\users\rozi\documents\visual studio 2015\Projects\09.ObjectAndClassesExercises\02.Advertisement Message\bin\Debug\02.Advertisement Message.exe
+c:\users\rozi\documents\visual studio 2015\Projects\09.ObjectAndClassesExercises\02.Advertisement Message\bin\Debug\02.Advertisement Message.pdb
+c:\users\rozi\documents\visual studio 2015\Projects\09.ObjectAndClassesExercises\02.Advertisement Message\obj\Debug\02.Advertisement Message.csprojResolveAssemblyReference.cache
+c:\users\rozi\documents\visual studio 2015\Projects\09.ObjectAndClassesExercises\02.Advertisement Message\obj\Debug\02.Advertisement Message.exe
+c:\users\rozi\documents\visual studio 2015\Projects\09.ObjectAndClassesExercises\02.Advertisement Message\obj\Debug\02.Advertisement Message.pdb

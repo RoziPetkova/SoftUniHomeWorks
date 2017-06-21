@@ -1,0 +1,6 @@
+c:\users\rozi\documents\visual studio 2015\Projects\DictionariesAndLambdaMoreExercises\DictionariesAndLambdaMoreExercises\bin\Debug\DictionariesAndLambdaMoreExercises.exe.config
+c:\users\rozi\documents\visual studio 2015\Projects\DictionariesAndLambdaMoreExercises\DictionariesAndLambdaMoreExercises\bin\Debug\DictionariesAndLambdaMoreExercises.exe
+c:\users\rozi\documents\visual studio 2015\Projects\DictionariesAndLambdaMoreExercises\DictionariesAndLambdaMoreExercises\bin\Debug\DictionariesAndLambdaMoreExercises.pdb
+c:\users\rozi\documents\visual studio 2015\Projects\DictionariesAndLambdaMoreExercises\DictionariesAndLambdaMoreExercises\obj\Debug\DictionariesAndLambdaMoreExercises.csprojResolveAssemblyReference.cache
+c:\users\rozi\documents\visual studio 2015\Projects\DictionariesAndLambdaMoreExercises\DictionariesAndLambdaMoreExercises\obj\Debug\DictionariesAndLambdaMoreExercises.exe
+c:\users\rozi\documents\visual studio 2015\Projects\DictionariesAndLambdaMoreExercises\DictionariesAndLambdaMoreExercises\obj\Debug\DictionariesAndLambdaMoreExercises.pdb

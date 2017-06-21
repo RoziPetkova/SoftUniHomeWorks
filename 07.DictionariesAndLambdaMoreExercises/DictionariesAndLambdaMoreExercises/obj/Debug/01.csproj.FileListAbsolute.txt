@@ -1,0 +1,3 @@
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\DictionariesAndLambdaMoreExercises\DictionariesAndLambdaMoreExercises\bin\Debug\DictionariesAndLambdaMoreExercises.exe.config
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\DictionariesAndLambdaMoreExercises\DictionariesAndLambdaMoreExercises\obj\Debug\DictionariesAndLambdaMoreExercises.exe
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\DictionariesAndLambdaMoreExercises\DictionariesAndLambdaMoreExercises\obj\Debug\DictionariesAndLambdaMoreExercises.pdb

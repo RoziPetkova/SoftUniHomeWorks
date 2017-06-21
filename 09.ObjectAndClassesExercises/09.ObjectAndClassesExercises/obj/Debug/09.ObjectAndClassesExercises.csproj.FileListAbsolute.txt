@@ -1,0 +1,6 @@
+c:\users\rozi\documents\visual studio 2015\Projects\09.ObjectAndClassesExercises\09.ObjectAndClassesExercises\bin\Debug\09.ObjectAndClassesExercises.exe.config
+c:\users\rozi\documents\visual studio 2015\Projects\09.ObjectAndClassesExercises\09.ObjectAndClassesExercises\bin\Debug\09.ObjectAndClassesExercises.exe
+c:\users\rozi\documents\visual studio 2015\Projects\09.ObjectAndClassesExercises\09.ObjectAndClassesExercises\bin\Debug\09.ObjectAndClassesExercises.pdb
+c:\users\rozi\documents\visual studio 2015\Projects\09.ObjectAndClassesExercises\09.ObjectAndClassesExercises\obj\Debug\09.ObjectAndClassesExercises.csprojResolveAssemblyReference.cache
+c:\users\rozi\documents\visual studio 2015\Projects\09.ObjectAndClassesExercises\09.ObjectAndClassesExercises\obj\Debug\09.ObjectAndClassesExercises.exe
+c:\users\rozi\documents\visual studio 2015\Projects\09.ObjectAndClassesExercises\09.ObjectAndClassesExercises\obj\Debug\09.ObjectAndClassesExercises.pdb

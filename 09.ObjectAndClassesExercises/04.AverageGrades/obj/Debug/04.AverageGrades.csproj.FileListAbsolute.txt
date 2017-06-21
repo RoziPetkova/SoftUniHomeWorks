@@ -1,0 +1,6 @@
+c:\users\rozi\documents\visual studio 2015\Projects\09.ObjectAndClassesExercises\04.AverageGrades\bin\Debug\04.AverageGrades.exe.config
+c:\users\rozi\documents\visual studio 2015\Projects\09.ObjectAndClassesExercises\04.AverageGrades\bin\Debug\04.AverageGrades.exe
+c:\users\rozi\documents\visual studio 2015\Projects\09.ObjectAndClassesExercises\04.AverageGrades\bin\Debug\04.AverageGrades.pdb
+c:\users\rozi\documents\visual studio 2015\Projects\09.ObjectAndClassesExercises\04.AverageGrades\obj\Debug\04.AverageGrades.csprojResolveAssemblyReference.cache
+c:\users\rozi\documents\visual studio 2015\Projects\09.ObjectAndClassesExercises\04.AverageGrades\obj\Debug\04.AverageGrades.exe
+c:\users\rozi\documents\visual studio 2015\Projects\09.ObjectAndClassesExercises\04.AverageGrades\obj\Debug\04.AverageGrades.pdb

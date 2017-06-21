@@ -1,0 +1,6 @@
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\DictionariesAndLambdaMoreExercises\02.OddFilter\bin\Debug\02.OddFilter.exe.config
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\DictionariesAndLambdaMoreExercises\02.OddFilter\bin\Debug\02.OddFilter.exe
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\DictionariesAndLambdaMoreExercises\02.OddFilter\bin\Debug\02.OddFilter.pdb
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\DictionariesAndLambdaMoreExercises\02.OddFilter\obj\Debug\02.OddFilter.csprojResolveAssemblyReference.cache
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\DictionariesAndLambdaMoreExercises\02.OddFilter\obj\Debug\02.OddFilter.exe
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\DictionariesAndLambdaMoreExercises\02.OddFilter\obj\Debug\02.OddFilter.pdb

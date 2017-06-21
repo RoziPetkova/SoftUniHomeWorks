@@ -1,0 +1,6 @@
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\ArraysAndMethodsMoreExercises\02. ManipulateArray\bin\Debug\_02.ManipulateArray.exe.config
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\ArraysAndMethodsMoreExercises\02. ManipulateArray\bin\Debug\_02.ManipulateArray.exe
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\ArraysAndMethodsMoreExercises\02. ManipulateArray\bin\Debug\_02.ManipulateArray.pdb
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\ArraysAndMethodsMoreExercises\02. ManipulateArray\obj\Debug\04.GrabAndGo.csprojResolveAssemblyReference.cache
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\ArraysAndMethodsMoreExercises\02. ManipulateArray\obj\Debug\_02.ManipulateArray.exe
+C:\Users\Rozi\Documents\Visual Studio 2015\Projects\ArraysAndMethodsMoreExercises\02. ManipulateArray\obj\Debug\_02.ManipulateArray.pdb
